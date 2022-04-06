@@ -5,6 +5,6 @@
 2. Introduction to Neural Networks and Course flow
 
 3. Course Resources
-- [Link](https://starttechacademy.com/neural-networks-in-python/)
+    - [Link](https://starttechacademy.com/neural-networks-in-python/)
 
 4. This is a milestone!
