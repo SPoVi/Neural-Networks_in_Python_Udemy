@@ -5,3 +5,4 @@ Udemy course - Learn Artificial Neural Networks (ANN) in Python. Build predictiv
 
 1. Introduction
 
+2. Setting up Python and Jupyter Notebook
