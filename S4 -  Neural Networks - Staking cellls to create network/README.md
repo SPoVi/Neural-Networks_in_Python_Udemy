@@ -4,4 +4,4 @@
 
 18. Gradient Descent
 
-
+19. Back propagation
