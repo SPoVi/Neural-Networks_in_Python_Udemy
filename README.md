@@ -9,4 +9,18 @@ Udemy course - Learn Artificial Neural Networks (ANN) in Python. Build predictiv
 
 3. Single Cells - Perceptron and Sigmoid Neuron
 
-4. Nueral Networks - Stacking cells to create Network
+4. Neural Networks - Stacking cells to create Network
+
+5. Important Concepts - Common Interview Questions
+
+6. Standard Model Parameters
+
+7. Practice Test
+
+8. __Tensorflow and Keras__
+
+9. Python - Dataset for Classification Problem
+
+10. Python - Building and Trainning the MOdel
+
+11. Python - Solving a Regression Problem using ANN
