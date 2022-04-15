@@ -24,3 +24,11 @@ Udemy course - Learn Artificial Neural Networks (ANN) in Python. Build predictiv
 10. Python - Building and Trainning the MOdel
 
 11. Python - Solving a Regression Problem using ANN
+
+12. Complex ANN Architectures using Functional API
+
+13. Saving and Restoring Models
+
+14. Hyperparameter Tunning
+
+15. Add-on 1. Data Preprocessing
