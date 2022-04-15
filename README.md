@@ -3,13 +3,13 @@ Udemy course - Learn Artificial Neural Networks (ANN) in Python. Build predictiv
 ---
 ## Sections: 
 
-1. Introduction
+1. [Introduction](https://github.com/SPoVi/Neural-Networks_in_Python_Udemy/tree/main/S1_Introduction)
 
-2. Setting up Python and Jupyter Notebook
+2. [Setting up Python and Jupyter Notebook](https://github.com/SPoVi/Neural-Networks_in_Python_Udemy/tree/main/S2%20-%20Setting%20up%20Python%20and%20Jupyter%20Notebook)
 
-3. Single Cells - Perceptron and Sigmoid Neuron
+3. [Single Cells - Perceptron and Sigmoid Neuron](https://github.com/SPoVi/Neural-Networks_in_Python_Udemy/tree/main/S3_Singel-cells_Perceptron-and-sigmoid-neuron)
 
-4. Neural Networks - Stacking cells to create Network
+4. [Neural Networks - Stacking cells to create Network](https://github.com/SPoVi/Neural-Networks_in_Python_Udemy/tree/main/S4%20-%20%20Neural%20Networks%20-%20Staking%20cellls%20to%20create%20network)
 
 5. Important Concepts - Common Interview Questions
 
