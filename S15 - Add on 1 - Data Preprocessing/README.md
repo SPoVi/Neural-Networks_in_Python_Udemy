@@ -7,3 +7,11 @@
 37. The Dataset and the Dictionary
 
 38. Add-on Resources (zip)
+
+39. Importing data in Python
+
+40. Univariable Analysis and EDD
+
+41. EDD in python
+
+42. Outlier Treatment
